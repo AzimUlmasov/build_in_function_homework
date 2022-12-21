@@ -8,4 +8,8 @@ def main():
     Returns:
         float: the value of the expression
     """
-    return
+    x = 3 * (7 / 5 - 9 / 4)
+
+    return x
+
+print(main())
